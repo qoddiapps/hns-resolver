@@ -1,6 +1,6 @@
 const conf =
 {
-	domain: "hns.is",
+	domain: "tfpgdzvony.eu03.qoddiapp.com",
 	protocol: "http",
 }
 
